@@ -76,3 +76,18 @@ colleagues.
 8. People you work with __colleagues__
 
 
+
+# Activity 1
+## Complete the following sentences with the most appropriate modal verb from the list below.
+can / could / must / mustn’t / should / shouldn’t / have to 
+don’t have to / ought to / ought not to
+1. The advice from the health committee is that all people with symptoms
+__must__ go to the doctor.
+2. This is a non-smoking area, you __mustn’t / dont have to__  smoke here.
+3. I hate big multinational companies. I think they __should__ pay more taxes.
+4. When she was 4 years old, she __could__ read perfectly well.
+5. I __should__ get up early tomorrow; I want to go running very early.
+6. You __shouldnt__ eat so many sweets. They are bad for you.
+7. We __have to__ wear a tie at work. I hate it!
+8. The board agreed that employers __should__ have access to an employee's medical file.
+9. I'm not working tomorrow, so I __dont have to__ get up early.
