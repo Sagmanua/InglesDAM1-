@@ -92,6 +92,8 @@ __must__ go to the doctor.
 8. The board agreed that employers __should__ have access to an employee's medical file.
 9. I'm not working tomorrow, so I __dont have to__ get up early.
 
+
+# 25/11/2025
 # Task 2
 These seems to be a techinical issue - Looks like something is wrong
 restart the device , please - try rebooting it
@@ -100,5 +102,12 @@ Send me the file when you can - shoot me file when you get sec
 I recomend a updating your software - You should update software
 
 ## Task  
-sort out - solv it 
+sort out - resolvet  
 run into  - investigate - расследовать
+
+## Task 6
+Plese wait a moment i am checking the system -- wait a min  i am cheking it 
+You do hot have permesion to install rhe software - looks like you dont have   rights to install this app
+I belive the issue related to the network configuration - Think  its a network cofig
+I will send you the updated code as soon as posible  - I`ll shoot you the update code asap
+Could you provide more information about the error -- Got more info bount rhe error
