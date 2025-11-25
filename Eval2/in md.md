@@ -91,3 +91,14 @@ __must__ go to the doctor.
 7. We __have to__ wear a tie at work. I hate it!
 8. The board agreed that employers __should__ have access to an employee's medical file.
 9. I'm not working tomorrow, so I __dont have to__ get up early.
+
+# Task 2
+These seems to be a techinical issue - Looks like something is wrong
+restart the device , please - try rebooting it
+The program does not funcion correctly  - Thr app isn  working
+Send me the file when you can - shoot me file when you get sec 
+I recomend a updating your software - You should update software
+
+## Task  
+sort out - solv it 
+run into  - investigate - расследовать
