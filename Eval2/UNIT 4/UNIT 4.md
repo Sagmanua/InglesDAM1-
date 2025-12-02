@@ -71,3 +71,87 @@ problem. __F You sent me a motherboard that has a missing part__
 3. CompuNet was not affected by the problem. __F . As a result of this, we lost a considerable amount of business__
 4. A representative of the company spoke nicely to him. __F  complaint to an employee at Customer Services, she was rude and refused to offer compensatio__
 5. John Higgins plans to work with the company in the future __F I will be looking for a new supplier.__
+
+
+
+## 🎧 Task 9 Listen to the video’s conversations and complete the chart:
+
+
+
+|Detail / Aspect              | Conversation1 | Conversation2 | Conversation3 |
+|-------------------------------|---------------|---------------|---------------|
+| Are all the steps included?   |she didnt ask name she didnt provide any soluthion|She didnt ask name and personal detail|all include|
+| Agent’s attitude              |polity respectful nicely |Extra polity | Extra polity|
+| Issue / Problem               |Trouble with istall a computer program|Loading the companig software|he has been overcharging|
+| Solution                      |Dont help |To chech website the folowing |send a new bill with correct amount|
+ 
+
+## Task 1 Read the email quickly. What does Kamal want to do? Then choose if the sentences below are true (T) or false (F).
+
+
+## Task 9 Your turn! 
+
+Student A. You are a customer calling customer services with a complaint. Answer Student B’s questions.
+
+Incorrect: "The first step in connecting a laptop to a projector is to ensure that both devices are turned on."
+✅ Correct: The first step is to ensure both the laptop and projector are turned off.
+
+Correct: "The projector cable should be plugged into the video socket of the laptop."
+
+Incorrect: "The power cable for the projector should be connected to the laptop."
+✅ Correct: The projector’s power cable should be plugged into a power socket, not the laptop.
+
+Correct: "To adjust the projector's resolution, the 'Fn' key and the key with a picture of a screen should be pressed simultaneously."
+
+Incorrect: "The 'Fn' key is located on the top row of keys on the laptop."
+✅ Correct: The 'Fn' key is usually on the bottom left, near the “Shift” key, while the screen key is on the top row.
+
+Correct: "It is important to unplug the projector from the computer after use."
+
+## Task 2 Match words 1-8 from the email in 4 to words a-h with a similar meaning
+
+cable → d. Connector
+
+Plug (into) → b. Conect 
+
+insert → b. Put (into)
+
+Power socket → f. Electricity socket
+
+Turn on → g. Switch on
+
+press → a. Push
+
+unplug → h. Disconnect
+
+Switch off → e. Turn off
+
+### Student  A 
+Customer Information
+Name of Company: Magic Electrics
+Customer Number: ME357
+Name of Contac Person: Jake Ronalds
+Invoice Number: 007865
+Product: Intel Pentium processor
+Under Warranty Until: One year after delivery date
+Customer’s Complaint: Yesterday we received a processor
+with defects. The cooling system
+doesn’t work
+
+### Student B 
+
+Customer Complaint Form
+Name of Company:
+Customer Number:
+Name of Contact Person:
+Invoice Number:
+Product:
+Product under warranty:  Yes  No
+Customer’s Complaint:
+Solutions
+ Correct the invoice and credit
+the customer
+ Offer a price reduction
+ Ofer a discount for next order  Replace the item
+ Send a technician  Collect the item for repair
+ Offer compensation  Other (suggest a solution)
