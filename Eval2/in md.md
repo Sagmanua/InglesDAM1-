@@ -111,3 +111,5 @@ You do hot have permesion to install rhe software - looks like you dont have   r
 I belive the issue related to the network configuration - Think  its a network cofig
 I will send you the updated code as soon as posible  - I`ll shoot you the update code asap
 Could you provide more information about the error -- Got more info bount rhe error
+
+
