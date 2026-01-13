@@ -155,3 +155,76 @@ the customer
  Ofer a discount for next order  Replace the item
  Send a technician  Collect the item for repair
  Offer compensation  Other (suggest a solution)
+
+Task 4
+
+Order for: Wood Publishing
+Dingle Digital Hardware Supplies
+
+5 × Expression 5710 laptop computers
+Specifications:
+
+Entel 2.73 GHz dual   + 
+
+1 × 390 GB SDD --- 500 gb 
+
+8 GB dual-channel DDR3 1666 MHz  ---  RAM 16 gb 
+
+Ladeon 3850 1 GB graphics card +
+
+No optical drive  
+
+15.6-inch WLED 1920 × 1080 screen --  13.66 
+
+4 × USB ports
+
+No operating system installed
+
+1 year next business day on-site service
+
+10 × Domination 8720 desktop computers
+Specifications:
+
+Entel 3.4 GHz quad-core CPU  -- 8 core 
+
+1 × Eastern Digital 2 TB 7200 rpm SATA HDD --- 2 dick 1 tr 
+
+16 GB 2000 MHz memory
+
+Ladeon 7950 2 GB graphics card + 
+
+6 × Blu-ray combo optical drive (Blu-ray, DVD+/-RW & CD) + 
+
+4 × USB ports - 8 usb port 
+
+802.11n WLAN wi-fi mini card +
+
+No operating system installed
+
+1 year next business day on-site service
+
+
+## Task 7 
+1. Double click on the title bar. b) and the window fills the screen.
+
+
+2. Click on a menu.  a) to open a new menu.
+3. Right-click on an icon.  g) and its background changes colour 
+4. Slide the scrollbar down. e) to scroll the window down.
+
+5. Click the “Minimise” button.   d) to hide the window.
+6. Drag the title bar. c) if you want to move the window.
+
+
+7. Select the icon. f) to open it.
+
+## Task 8-9 
+
+He try found the Date of intall 
+
+1. Can you scroll up to the top?
+2. Just select “Manage”
+3. Just click right-click where it says “Disk-0”
+4. Choose “Properties” from the menu
+5. Choose the “Details” tab
+6. Select “Install date”
